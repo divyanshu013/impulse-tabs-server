@@ -1,0 +1,16 @@
+{
+  "name": "impulse-tabs-server",
+  "version": "0.1.0",
+  "description": "Impulse tabs app server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "impulse",
+    "tabs",
+    "server"
+  ],
+  "author": "Divyanshu Maithani",
+  "license": "MIT"
+}
